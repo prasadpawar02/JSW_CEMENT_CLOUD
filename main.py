@@ -50,7 +50,7 @@ def initialize_smart_df(file):
     return smart_df
 
 # Provide a default CSV file path or use a pre-uploaded file path
-default_file_path = r"C:\Users\prasad.pawar\OneDrive - Tridiagonal Solutions\Desktop\JWT\Final_JSW.csv"
+default_file_path = r'Final_JSW.csv'
 
 smart_df = initialize_smart_df(default_file_path)
 
