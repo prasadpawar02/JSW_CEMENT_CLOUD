@@ -1,5 +1,6 @@
-streamlit
-pandas
-langchaink 
-boto3
-openai
+streamlit==1.32.0
+pandas==1.5.3
+langchain==0.2.15
+langchain_commuity==0.2.13
+boto3==1.35.7
+openai==1.42.0
